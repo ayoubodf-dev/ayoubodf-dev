@@ -63,3 +63,11 @@ A private-network dashboard for managing Android TV boxes through Node.js, ADB, 
 
 - Explore my repositories and open an issue if you would like to discuss a project.
 - I am open to freelance development, collaboration, and practical software opportunities.
+
+## Support
+
+If my open-source work helps you, you can support continued development, device testing, and documentation:
+
+<a href="https://buymeacoffee.com/ayoubodf">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50">
+</a>

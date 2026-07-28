@@ -2,6 +2,10 @@
 
 I build practical software across AI automation, Flutter, Android, browser extensions, and local-network tools. My projects focus on solving real problems with clean interfaces, reliable automation, and privacy-conscious architecture.
 
+## Live engineering dashboard
+
+[Explore my GitHub API portfolio](https://ayoubodf-dev.github.io/github-api-portfolio/) for a live view of my repositories, languages, and current engineering work.
+
 ## Featured projects
 
 ### [Jarvis Local Assistant](https://github.com/ayoubodf-dev/jarvis-local-assistant)

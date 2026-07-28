@@ -66,8 +66,8 @@ A private-network dashboard for managing Android TV boxes through Node.js, ADB, 
 
 ## Support
 
-If my open-source work helps you, you can support continued development, device testing, and documentation:
+If my open-source work helps you, you can support continued development, device testing, and documentation on Ko-fi:
 
-<a href="https://buymeacoffee.com/ayoubodf">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50">
+<a href="https://ko-fi.com/ayoubodf">
+  <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Support me on Ko-fi" height="50">
 </a>

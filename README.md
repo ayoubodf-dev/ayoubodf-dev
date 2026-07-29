@@ -55,11 +55,24 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
 
 ## Languages and Tools
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,react,flutter,electron,fastapi,nodejs,androidstudio,apple,chrome,docker,git,githubactions,vscode&perline=9"
-    alt="Python, JavaScript, TypeScript, Dart, Kotlin, React, Flutter, Electron, FastAPI, Node.js, Android Studio, Apple, Chrome, Docker, Git, GitHub Actions, and Visual Studio Code"
-  />
+<p align="left">
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48"></a>
+  <a href="https://dart.dev/" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"></a>
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48"></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"></a>
+  <a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"></a>
+  <a href="https://www.electronjs.org/" title="Electron"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="48" height="48"></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48"></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"></a>
+  <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"></a>
+  <a href="https://developer.apple.com/" title="Apple platforms"><img src="https://skillicons.dev/icons?i=apple" alt="Apple platforms" width="48" height="48"></a>
+  <a href="https://developer.chrome.com/docs/extensions/" title="Chrome Extensions"><img src="https://skillicons.dev/icons?i=chrome" alt="Chrome Extensions" width="48" height="48"></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"></a>
+  <a href="https://docs.github.com/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48" height="48"></a>
 </p>
 
 - **Languages:** Python, JavaScript, TypeScript, Dart, Kotlin

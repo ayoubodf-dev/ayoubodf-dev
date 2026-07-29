@@ -2,9 +2,9 @@
 
 I build practical software across AI automation, Flutter, Android, browser extensions, and local-network tools. My projects focus on solving real problems with clean interfaces, reliable automation, and privacy-conscious architecture.
 
-## Live engineering dashboard
+## Engineering dashboard
 
-[Explore my GitHub API portfolio](https://ayoubodf-dev.github.io/github-api-portfolio/) for a live view of my repositories, languages, and current engineering work.
+[Explore the GitHub API portfolio showcase](https://github.com/ayoubodf-dev/github-api-portfolio-showcase) for an overview of the dashboard, its architecture, and its presentation.
 
 ## Featured projects
 

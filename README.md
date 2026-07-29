@@ -69,6 +69,8 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
   <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"></a>
   <a href="https://developer.apple.com/" title="Apple platforms"><img src="https://skillicons.dev/icons?i=apple" alt="Apple platforms" width="48" height="48"></a>
   <a href="https://developer.chrome.com/docs/extensions/" title="Chrome Extensions"><img src="assets/chrome-extensions.png" alt="Chrome Extensions" width="48" height="48"></a>
+  <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48"></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"></a>
   <a href="https://docs.github.com/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"></a>
@@ -77,7 +79,7 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
 
 - **Languages:** Python, JavaScript, TypeScript, Dart, Kotlin
 - **Frontend:** React, Flutter, Electron, Chrome Extensions
-- **Backend:** FastAPI, Node.js, REST APIs, WebSockets
+- **Backend:** FastAPI, Node.js, Firebase, Google Cloud, REST APIs, WebSockets
 - **Platforms:** macOS, Android, Android TV, Chrome
 - **Interests:** AI agents, workflow automation, local-first software, media tools
 

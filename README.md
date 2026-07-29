@@ -53,7 +53,14 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
 > Production source code is maintained privately. The linked repositories are
 > source-free product showcases with architecture and demonstration media.
 
-## Technologies
+## Languages and Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,react,flutter,electron,fastapi,nodejs,androidstudio,apple,chrome,docker,git,githubactions,vscode&perline=9"
+    alt="Python, JavaScript, TypeScript, Dart, Kotlin, React, Flutter, Electron, FastAPI, Node.js, Android Studio, Apple, Chrome, Docker, Git, GitHub Actions, and Visual Studio Code"
+  />
+</p>
 
 - **Languages:** Python, JavaScript, TypeScript, Dart, Kotlin
 - **Frontend:** React, Flutter, Electron, Chrome Extensions

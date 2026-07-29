@@ -68,7 +68,7 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
   <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"></a>
   <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"></a>
   <a href="https://developer.apple.com/" title="Apple platforms"><img src="https://skillicons.dev/icons?i=apple" alt="Apple platforms" width="48" height="48"></a>
-  <a href="https://developer.chrome.com/docs/extensions/" title="Chrome Extensions"><img src="https://skillicons.dev/icons?i=chrome" alt="Chrome Extensions" width="48" height="48"></a>
+  <a href="https://developer.chrome.com/docs/extensions/" title="Chrome Extensions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="Chrome Extensions" width="48" height="48"></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"></a>
   <a href="https://docs.github.com/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"></a>

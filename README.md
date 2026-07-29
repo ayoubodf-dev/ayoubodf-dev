@@ -14,11 +14,15 @@ A local-first AI assistant with voice interaction, macOS automation, a FastAPI b
 
 `Python` `FastAPI` `React` `Android` `AI`
 
+[Live Demo](https://ayoubodf-dev.github.io/jarvis-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/jarvis-showcase/releases/latest)
+
 ### [IPTV Player](https://github.com/ayoubodf-dev/iptv-player-showcase)
 
 A multi-platform Flutter IPTV client supporting live television, video on demand, EPG, casting, and TV remote control.
 
 `Flutter` `Dart` `Android` `Media`
+
+[Live Demo](https://ayoubodf-dev.github.io/iptv-player-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/iptv-player-showcase/releases/latest)
 
 ### [LocalLink](https://github.com/ayoubodf-dev/locallink-showcase)
 
@@ -26,11 +30,15 @@ Direct local-network file sharing between macOS and Android, designed for fast t
 
 `Flutter` `Dart` `macOS` `Android` `Networking`
 
+[Live Demo](https://ayoubodf-dev.github.io/locallink-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/locallink-showcase/releases/latest)
+
 ### [StreamCatcher](https://github.com/ayoubodf-dev/streamcatcher-showcase)
 
 An Electron download manager with a companion Chrome extension for direct media and unencrypted HLS downloads.
 
 `JavaScript` `Electron` `Chrome Extensions` `HLS`
+
+[Live Demo](https://ayoubodf-dev.github.io/streamcatcher-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/streamcatcher-showcase/releases/latest)
 
 ### [Venu](https://github.com/ayoubodf-dev/venu-showcase)
 
@@ -38,17 +46,23 @@ A full-stack, location-aware social platform with real-time chat, calls, and mob
 
 `JavaScript` `Node.js` `Mobile` `Real-time`
 
+[Live Demo](https://ayoubodf-dev.github.io/venu-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/venu-showcase/releases/latest)
+
 ### [SC300 Remote Manager](https://github.com/ayoubodf-dev/sc300-remote-manager-showcase)
 
 A private-network dashboard for managing Android TV boxes through Node.js, ADB, and an Android companion.
 
 `JavaScript` `Node.js` `ADB` `Android`
 
+[Live Demo](https://ayoubodf-dev.github.io/sc300-remote-manager-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/sc300-remote-manager-showcase/releases/latest)
+
 ### [Gmail Organizer](https://github.com/ayoubodf-dev/gmail-organizer-showcase)
 
 A productivity extension with rule previews, bulk inbox organization, analytics, and optional AI-assisted summaries.
 
 `JavaScript` `Chrome Extensions` `Gmail` `Automation`
+
+[Live Demo](https://ayoubodf-dev.github.io/gmail-organizer-showcase/) · [Latest Release](https://github.com/ayoubodf-dev/gmail-organizer-showcase/releases/latest)
 
 > Production source code is maintained privately. The linked repositories are
 > source-free product showcases with architecture and demonstration media.

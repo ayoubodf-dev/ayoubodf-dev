@@ -4,7 +4,7 @@ I build practical software across AI automation, Flutter, Android, browser exten
 
 ## Engineering dashboard
 
-[Explore the GitHub API portfolio showcase](https://github.com/ayoubodf-dev/github-api-portfolio-showcase) for an overview of the dashboard, its architecture, and its presentation.
+[Explore the live GitHub Engineering Dashboard](https://ayoubodf-dev.github.io/github-api-portfolio-showcase/) for a focused view of my repositories, technologies, and current engineering work.
 
 ## Featured projects
 

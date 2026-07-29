@@ -95,6 +95,10 @@ A productivity extension with rule previews, bulk inbox organization, analytics,
 - Explore the public showcases and open an issue if you would like to discuss a project.
 - I am open to freelance development, collaboration, and practical software opportunities.
 
+<a href="https://stackoverflow.com/users/32981352/ayoub-odf" title="Stack Overflow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="48" height="48">
+</a>
+
 ## Support
 
 If my work helps you, you can support continued development, device testing, and documentation through PayPal:
